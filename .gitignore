@@ -11,6 +11,7 @@ temp/
 .vscode
 lib/
 build/assets
+Output/*
 
 # Simplicity related ignores
 buildscript/tools/
